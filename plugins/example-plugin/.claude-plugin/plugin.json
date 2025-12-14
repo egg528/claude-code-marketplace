@@ -1,0 +1,15 @@
+{
+  "name": "example-plugin",
+  "description": "An example plugin to demonstrate the plugin structure",
+  "version": "1.0.0",
+  "author": {
+    "name": "egg528",
+    "url": "https://github.com/egg528"
+  },
+  "homepage": "https://github.com/egg528/claude-code-marketplace",
+  "keywords": [
+    "example",
+    "template"
+  ],
+  "commands": "./commands/"
+}
