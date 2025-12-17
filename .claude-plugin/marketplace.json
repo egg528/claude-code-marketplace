@@ -11,12 +11,6 @@
   "homepage": "https://github.com/egg528/claude-code-marketplace",
   "plugins": [
     {
-      "name": "example-plugin",
-      "source": "./plugins/example-plugin",
-      "description": "An example plugin to demonstrate the plugin structure",
-      "category": "template"
-    },
-    {
       "name": "supabase",
       "source": "./plugins/supabase",
       "description": "Supabase database development integration (PostgreSQL, Auth, Storage, RLS)",
