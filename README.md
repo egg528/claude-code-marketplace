@@ -14,7 +14,7 @@ Personal Claude Code plugin marketplace.
 |--------|-------------|----------|
 | supabase | Supabase database integration (PostgreSQL, Auth, Storage, RLS) | database |
 | expo | Expo React Native mobile app development | mobile |
-| example-plugin | Example plugin to demonstrate structure | template |
+| knowledge | Documentation tools (Context7, etc.) | docs |
 
 ## Contributing
 
