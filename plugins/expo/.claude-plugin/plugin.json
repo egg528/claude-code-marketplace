@@ -13,7 +13,5 @@
     "typescript",
     "ios",
     "android"
-  ],
-  "category": "mobile",
-  "agents": "./agents/"
+  ]
 }

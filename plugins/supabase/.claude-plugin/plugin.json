@@ -13,8 +13,5 @@
     "rls",
     "auth",
     "storage"
-  ],
-  "category": "database",
-  "agents": "./agents/",
-  "commands": "./commands/"
+  ]
 }
