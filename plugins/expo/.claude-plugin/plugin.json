@@ -14,5 +14,6 @@
     "ios",
     "android"
   ],
-  "category": "mobile"
+  "category": "mobile",
+  "agents": "./agents/"
 }
