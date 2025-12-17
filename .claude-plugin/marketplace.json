@@ -15,6 +15,18 @@
       "source": "./plugins/example-plugin",
       "description": "An example plugin to demonstrate the plugin structure",
       "category": "template"
+    },
+    {
+      "name": "supabase",
+      "source": "./plugins/supabase",
+      "description": "Supabase database development integration (PostgreSQL, Auth, Storage, RLS)",
+      "category": "database"
+    },
+    {
+      "name": "expo",
+      "source": "./plugins/expo",
+      "description": "Expo React Native mobile app development integration",
+      "category": "mobile"
     }
   ]
 }
