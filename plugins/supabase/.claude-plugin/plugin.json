@@ -14,5 +14,7 @@
     "auth",
     "storage"
   ],
-  "category": "database"
+  "category": "database",
+  "agents": "./agents/",
+  "commands": "./commands/"
 }
