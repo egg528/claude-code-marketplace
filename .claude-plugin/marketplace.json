@@ -27,6 +27,12 @@
       "source": "./plugins/expo",
       "description": "Expo React Native mobile app development integration",
       "category": "mobile"
+    },
+    {
+      "name": "knowledge",
+      "source": "./plugins/knowledge",
+      "description": "Documentation and knowledge base tools (Context7, etc.)",
+      "category": "docs"
     }
   ]
 }

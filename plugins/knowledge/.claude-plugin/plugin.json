@@ -1,0 +1,11 @@
+{
+  "name": "knowledge",
+  "description": "Documentation and knowledge base tools for up-to-date library references",
+  "version": "1.0.0",
+  "author": {
+    "name": "egg528",
+    "url": "https://github.com/egg528"
+  },
+  "keywords": ["docs", "documentation", "context7", "knowledge", "references"],
+  "category": "docs"
+}
